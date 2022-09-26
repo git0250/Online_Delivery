@@ -114,7 +114,7 @@ color:blue;
 <li><a href="feedback.html">FEEDBACK</a></li>
 </ul>
 </div>
-<img src='.\images\IMG-20191227-WA0007.jpg' width="1400" height="500">
+<img src='./images/IMG-20191227-WA0007.jpg' width="1400" height="500">
 <br>
 <div class="content">
 <a class="btn"onclick="alert(' WELCOME TO Tasty food')"href="login.php">WELCOME</a>
